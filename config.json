@@ -1,0 +1,22 @@
+{
+    "token": "MTIzMzA5MDc3MTkyMjcxNDYyNA.Gz_FdM.6hsLq-rSaiHcHtpagduKtjMwoohLQsZRuOpkHA",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "moot diya",
+            "moot diya",
+            "moot diya",
+            "moot diya"
+        ],
+        "roles_name": [
+            "moot diya",
+            "moot diya",
+            "moot diya"
+        ],
+        "messages_content": [
+            "@everyone discord.gg/pakvillage",
+            "@everyone discord.gg/pakvillage",
+            "@everyone discord.gg/pakvillage"
+        ]
+    }
+}
